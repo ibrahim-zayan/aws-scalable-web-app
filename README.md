@@ -5,6 +5,8 @@ A highly available, scalable, and secure three-tier web application architecture
 
 > **Scope note:** This repository is an architecture design and documentation deliverable. It documents the design only. It does not contain deployment code, and it makes no claim that the architecture has been deployed or load-tested in a live AWS account.
 
+> **Report:** A full project report is available in [docs/project-report.pdf](docs/project-report.pdf).
+
 ## Table of Contents
 
 1. [Project Overview](#1-project-overview)
@@ -207,7 +209,9 @@ aws-scalable-web-app/
     ├── security.md
     ├── availability-and-scalability.md
     ├── cost-estimation.md
-    └── limitations-and-future-improvements.md
+    ├── limitations-and-future-improvements.md
+    └── project-report.pdf
+
 ```
 
 ## 15. Documentation Navigation
@@ -219,6 +223,7 @@ aws-scalable-web-app/
 | [docs/availability-and-scalability.md](docs/availability-and-scalability.md) | Failure scenarios and scaling behaviour |
 | [docs/cost-estimation.md](docs/cost-estimation.md) | Cost drivers and how to build a verified estimate |
 | [docs/limitations-and-future-improvements.md](docs/limitations-and-future-improvements.md) | Limitations and prioritised roadmap |
+| [docs/project-report.pdf](docs/project-report.pdf) | Full project report (PDF) |
 
 ## 16. References
 
